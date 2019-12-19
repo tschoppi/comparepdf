@@ -44,7 +44,7 @@ Difference compareFiles(const QString &file1, const QString &file2,
         bool compareText, QString *error);
 
 
-const QString Version("1.0.1");
+const QString Version("1.0.2");
 
 
 int main(int argc, char *argv[])
