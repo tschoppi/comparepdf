@@ -46,7 +46,7 @@ target_link_libraries(comparepdf
 
 target_compile_definitions(comparepdf PRIVATE -DPOPPLER_VERSION="${Poppler_VERSION}")
 
-install(FILES README CHANGES DESTINATION ${CMAKE_INSTALL_DOCDIR})
+install(FILES README.md CHANGES.md DESTINATION ${CMAKE_INSTALL_DOCDIR})
 install(TARGETS comparepdf DESTINATION ${CMAKE_INSTALL_BINDIR})
 install(FILES ${CMAKE_BINARY_DIR}/comparepdf.1 DESTINATION ${CMAKE_INSTALL_MANDIR}/man1)
 
