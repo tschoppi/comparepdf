@@ -3,7 +3,7 @@
 
 cmake_minimum_required(VERSION 3.1)
 
-set(COMPAREPDF_VERSION 1.2.0)
+set(COMPAREPDF_VERSION 1.0.1)
 set(COMPAREPDF_DATE 2019-12-19)
 project(comparepdf VERSION ${COMPAREPDF_VERSION})
 
