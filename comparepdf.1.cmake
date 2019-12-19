@@ -1,4 +1,4 @@
-.TH COMPAREPDF 1 "2012-01-10" "comparepdf v1.0.1"
+.TH COMPAREPDF 1 "@COMPAREPDF_DATE@" "comparepdf v@COMPAREPDF_VERSION@"
 .SH NAME
 comparepdf \- compare two PDF files textually or visually
 .SH SYNOPSIS
