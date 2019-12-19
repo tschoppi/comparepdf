@@ -25,3 +25,4 @@ qrc_*.cpp
 ui_*.h
 .*.swp
 .qmake.stash
+/build
