@@ -5,6 +5,7 @@ Changes
 -------
 
   - Upgraded to Qt 5
+  - Switched to build process with CMake
 
 
 1.0.1
