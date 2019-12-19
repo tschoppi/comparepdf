@@ -17,7 +17,7 @@
 #include <tr1/memory>
 #endif
 #include <poppler-version.h>
-#include <poppler-qt4.h>
+#include <poppler-qt5.h>
 #include <QApplication>
 #include <QImage>
 #include <QTextStream>
